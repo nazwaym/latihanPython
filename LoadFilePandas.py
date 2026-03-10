@@ -1,13 +1,7 @@
-# %%
 import pandas as pd
 
-# %%
-# reading the database
+# membaca dataset
 data = pd.read_csv("tips.csv")
 
-# %%
-# printing the top 10 rows
-display(data.head(10))
-
-# %%
-
+# menampilkan 10 baris pertama
+print(data.head(10))
