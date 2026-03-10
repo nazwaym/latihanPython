@@ -17,7 +17,7 @@ Pada percobaan pertama dilakukan visualisasi untuk melihat **persentase pelangga
 Visualisasi dilakukan menggunakan **Pie Chart** sehingga perbandingan antara pelanggan laki-laki dan perempuan dapat terlihat dengan jelas.
 
 ### Hasil Visualisasi
-![Pie Chart Gender] <img width="600" height="600" alt="visualisasigender" src="https://github.com/user-attachments/assets/777a7d03-1b07-40f3-9786-4747085a879b" />
+<img width="600" height="600" alt="visualisasigender" src="https://github.com/user-attachments/assets/777a7d03-1b07-40f3-9786-4747085a879b" />
 
 
 ---
@@ -29,8 +29,7 @@ Pada percobaan kedua dilakukan visualisasi untuk mengetahui **jumlah pelanggan y
 Visualisasi ini menggunakan **Bar Chart** untuk menunjukkan hari dengan jumlah pelanggan paling banyak.
 
 ### Hasil Visualisasi
-![Jumlah Pelanggan Berdasarkan Hari]<img width="688" height="464" alt="Screenshot 2026-03-11 000249" src="https://github.com/user-attachments/assets/cb4a4f0c-e260-4054-8440-fdf6058ca9bb" />
- />
+<img width="800" height="500" alt="visualisasiperhari" src="https://github.com/user-attachments/assets/44d15632-3376-4511-959a-d873ea95f530" />
 
 
 ---
